@@ -17,16 +17,19 @@ Alien Invasion is inspired by the classic arcade game "Space Invaders". This pro
 - **Player Controls**: Move the spaceship left and right and shoot bullets.
 - **Alien Waves**: Increasing difficulty with faster aliens as levels progress.
 - **Collision Detection**: Detects when bullets hit aliens or when aliens reach the base.
+- **Player Lives**: Player has 3 lives before its game over!
 - **Score Tracking**: Keeps track of the player's score.
 - **Level Progression**: Keeps track on what level the player is on.
 
 ## How to Play
 
-- **Play**: Press on the "Play" icon to start game.
+- **Play**: Click on the "Play" icon to start game.
 - **Movement**: Use the left and right arrow keys to move the spaceship.
 - **Shooting**: Press the spacebar to shoot bullets at the aliens. Only 3 bullets are allowed for the player to shoot at one time!
 - **Objective**: Shoot down all the aliens before they reach your base. Each level increases the speed.
 - **Quit Game**: Press 'q' to quit the game at any time.
+
+![alien_invasion_screenshot](https://github.com/user-attachments/assets/a34fa2ce-761b-4f04-a5f9-f49f0961de1b)
 
 ## License
 
