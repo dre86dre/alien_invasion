@@ -7,6 +7,7 @@ Welcome to the Alien Invasion Game! This is a simple 2D game created using Pytho
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Screenshots](#screenshots)
+- [Notes](#notes)
 - [License](#license)
 
 ## Introduction
@@ -34,6 +35,10 @@ Alien Invasion is inspired by the classic arcade game "Space Invaders". This pro
 
 ![alien_invasion_screenshot copy](https://github.com/user-attachments/assets/3db34731-851e-4608-a112-b5054da458b9)<br>
 *In-Game Screenshot*
+
+## Notes
+
+- Please ensure you have installed Pygame and Pytest prior to playing this game.
 
 ## License
 
