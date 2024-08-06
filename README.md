@@ -22,9 +22,11 @@ Alien Invasion is inspired by the classic arcade game "Space Invaders". This pro
 
 ## How to Play
 
+- **Play**: Press on the "Play" icon to start game.
 - **Movement**: Use the left and right arrow keys to move the spaceship.
 - **Shooting**: Press the spacebar to shoot bullets at the aliens. Only 3 bullets are allowed for the player to shoot at one time!
 - **Objective**: Shoot down all the aliens before they reach your base. Each level increases the speed.
+- **Quit Game**: Press 'q' to quit the game at any time.
 
 ## License
 
