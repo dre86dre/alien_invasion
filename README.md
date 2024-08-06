@@ -6,6 +6,7 @@ Welcome to the Alien Invasion Game! This is a simple 2D game created using Pytho
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to Play](#how-to-play)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Introduction
