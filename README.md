@@ -29,7 +29,10 @@ Alien Invasion is inspired by the classic arcade game "Space Invaders". This pro
 - **Objective**: Shoot down all the aliens before they reach your base. Each level increases the speed.
 - **Quit Game**: Press 'q' to quit the game at any time.
 
-![alien_invasion_screenshot](https://github.com/user-attachments/assets/a34fa2ce-761b-4f04-a5f9-f49f0961de1b)
+## Screenshots
+
+![alien_invasion_screenshot](https://github.com/user-attachments/assets/c5be1a8d-02e1-4536-a4c4-4e3d47fd5f30)
+*In-Game Screenshot*
 
 ## License
 
