@@ -32,7 +32,7 @@ Alien Invasion is inspired by the classic arcade game "Space Invaders". This pro
 
 ## Screenshots
 
-![alien_invasion_screenshot copy](https://github.com/user-attachments/assets/dc3c099f-8fd8-49ec-bdd2-8b8be0d089a5)<br>
+![alien_invasion_screenshot copy](https://github.com/user-attachments/assets/3db34731-851e-4608-a112-b5054da458b9)<br>
 *In-Game Screenshot*
 
 ## License
