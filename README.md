@@ -2,6 +2,12 @@
 
 Welcome to the Alien Invasion Game! This is a simple 2D game created using Python and Pygame. The objective of the game is to shoot down as many alien ships as possible before they invade your base.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [How to Play](#how-to-play)
+- [License](#license)
+
 ## Introduction
 
 Alien Invasion is inspired by the classic arcade game "Space Invaders". This project aims to provide a fun way to learn and practice Python and Pygame. The game includes a simple GUI, collision detection, and increasing levels of difficulty.
